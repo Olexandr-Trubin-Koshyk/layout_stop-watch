@@ -1,0 +1,2 @@
+.page__content{margin:auto}.stopwatch{position:relative;width:500px;height:500px}.stopwatch:before{height:200px;background-color:#000;animation:rotate 3600s linear infinite}.stopwatch:after,.stopwatch:before{position:absolute;left:50%;bottom:50%;width:10px;content:"";border-radius:5px;transform-origin:bottom}.stopwatch:after{height:250px;background-color:red;animation:rotate 60s linear infinite}@keyframes rotate{to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.2401b368.css.map */
